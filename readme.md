@@ -1,3 +1,3 @@
-# Natours Application
+# GoOnTour App
 
-Built using modern technologies: node.js, express, mongoDB, mongoose 
+Built using: node.js, express, mongoDB, mongoose 
